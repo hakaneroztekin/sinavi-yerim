@@ -21,3 +21,6 @@ A (Turkish) [guide](https://sinaviyerim.com/) for successful people. Since 2013.
 For my goal, I had to get into the **top 8.000 people among 2 million** students. I was failed with 50.000. I was persistent, took the risk and studied hard, more than ever. And achieved the **top 0.1% (2.7k-3.3k)**. Right after people got very curious about my strategies. I was responding them with paragraphs but then thought why not publish my responses publicly and share them the link. That's the story of Sınavı-Yerim. 
 
 Ever since, I continue helping people to achieve success through sharing articles.
+
+# Developer
+**[@hakaneroztekin](https://github.com/hakaneroztekin)**
