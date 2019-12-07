@@ -1,5 +1,7 @@
 # Sınavı - Yerim
-A (Turkish) [guide](https://sinaviyerim.com/) for successful people. Since 2013. 
+A guide for successful people. Since 2013.
+
+[📜 Access here](https://sinaviyerim.com/)
 
 # What is Sınavı-Yerim
 * Sınavı-Yerim is a blog that I've founded to help high school students with their exams and career choices. Also to guide university students and graduates.
